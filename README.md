@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me via email at okmarq@gmail.com
 - 📫 Via LinkedIn at https://www.linkedin.com/in/okmarq/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I built a blockchain architecture. I want to add more features and deploy my solutions soon.
+- ⚡ Fun fact: I built a blockchain architecture. I will add more feature solutions and deploy them soon.
